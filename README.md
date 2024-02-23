@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [https://github.com/Albrt78/frontend_mentor_project/tree/main/Order%20Summary]
--   Live Site URL: [https://dreamy-profiterole-fdacc8.netlify.app/]
+-   Solution URL: [Order Summary Card](https://github.com/Albrt78/ordersummary.github.io)
+-   Live Site URL: [Order Summary Card](https://albrt78.github.io/ordersummary.github.io/)
 
 ### Built with
 
